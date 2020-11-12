@@ -2,4 +2,8 @@
 	CSS by Kristoffer Egholm Wendelboe 
 	UCN MMD 2020
 */
+@import url('https://fonts.googleapis.com/css2?family=Fjord+One&display=swap');
 
+body {
+	font-family: 'Fjord One', serif;
+}
